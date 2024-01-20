@@ -8,4 +8,4 @@ Hosted using firebase hosting
 
 ## Deployement URL
 
-food-ordering-app-54229.firebaseapp.com
+https://food-ordering-app-54229.firebaseapp.com/
